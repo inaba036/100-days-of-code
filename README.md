@@ -1,4 +1,3 @@
 # 100-days-of-code
-Fork this template for the 100 days journal - to keep yourself accountable
-
-Trying to figure out how to use GitHub...
+Started February 5th, 2018.
+Not quite sure how to use GitHub, but let's go!
