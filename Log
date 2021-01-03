@@ -9,3 +9,4 @@ Jan 3rd, 2021
 Restart 100-days-of-code
 Installed JDK8
 Installed Atom editor
+実数型の変数に直接2/3を代入し表示させても0.0にしかならない！
